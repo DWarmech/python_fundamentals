@@ -1,0 +1,5 @@
+numbers = input()
+
+for element in numbers:
+    if element == "0":
+        
